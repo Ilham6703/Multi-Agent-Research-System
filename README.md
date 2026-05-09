@@ -1,5 +1,11 @@
 ---
-title: ResearchMind emoji: 🔬 colorFrom: red colorTo: pink sdk: streamlit app_file: main.py pinned: false
+title: ResearchMind
+emoji: 🔬
+colorFrom: red
+colorTo: pink
+sdk: streamlit
+app_file: main.py
+pinned: false
 ---
 
 <div align="center">
