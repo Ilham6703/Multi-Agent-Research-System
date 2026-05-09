@@ -1,0 +1,16 @@
+# Ignore the entire virtual environment
+.venv/
+venv/
+env/
+
+# Ignore your secret API keys
+.env
+
+# Ignore Python cache files (makes the repo messy)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
