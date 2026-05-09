@@ -29,12 +29,6 @@ pinned: false
 
 <br/>
 
-<a href="YOUR_STREAMLIT_URL_HERE">
-  <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" height="35"/>
-</a>
-
-<br/><br/>
-
 ---
 
 </div>
@@ -171,9 +165,3 @@ No knowledge cutoff. No hallucinated sources. Just **real data → real report**
 └──────────────────────────────────────────────────────┘
 ```
 
-
-## 📄 License
-
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
-
----
