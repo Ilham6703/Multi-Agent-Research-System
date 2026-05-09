@@ -1,3 +1,13 @@
+---
+title: ResearchMind
+emoji: 🔬
+colorFrom: orange
+colorTo: red
+sdk: streamlit
+app_file: main.py
+pinned: false
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ResearchMind&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Multi-Agent%20AI%20Research%20System&descAlignY=55&descSize=22" width="100%"/>
